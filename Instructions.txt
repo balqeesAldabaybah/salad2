@@ -1,0 +1,4 @@
+chop strwaberry
+chop lattus
+add nuts
+add dressing
